@@ -1,6 +1,7 @@
 <template>
   <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
   <p>你好vercel</p>
+  <img src="../public/favicon.ico" alt="">
 </template>
 
 <script>
